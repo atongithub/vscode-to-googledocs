@@ -44,5 +44,3 @@ To set up Google Docs API access:
 ```bash
 python script.py <google-doc-link> <java-code-folder>
 ```
-In your Google Document > share
-
