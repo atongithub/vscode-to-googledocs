@@ -79,7 +79,7 @@ def writing_in_the_document(service, document_id, text):
 def main():
     if len(sys.argv) != 3:
         print("Usage: python script.py <google-doc-link> <java-code-folder>\n"
-        "Give the bot access to the document: codesubmissionbot@stoked-courier-000000-n2.iam.gserviceaccount.com")
+        "Give the bot's email access to the document (can be found in the json file looks like this codesubmissionbot@stoked-courier-000000-n2.iam.gserviceaccount.com)")
         sys.exit(1)
 
     document_link = sys.argv[1]
