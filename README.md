@@ -36,4 +36,13 @@ To set up Google Docs API access:
 6. Download the JSON credentials
 7. Place the credentials file in the same directory as the script and rename it as `credentials.json`
 
+### 4. Usage
+
+1. First note your bot's email id from credentials.json
+2. Go to the Google Document > Share > Give the bot's emailid editor access
+3. Copy the link for the Document and run the script
+```bash
+python script.py <google-doc-link> <java-code-folder>
+```
+In your Google Document > share
 
