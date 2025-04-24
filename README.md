@@ -16,8 +16,8 @@ A Python script that formats Java code with styles (monospace font, shading, etc
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/atongithub/Vscode-To-GoogleDocs.git
-cd java-docs-formatter
+git clone https://github.com/atongithub/vscode-to-googledocs.git
+cd vscode-to-googledocs
 ```
 
 ### 2. Install libraries
