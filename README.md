@@ -28,11 +28,11 @@ pip install -r requirements.txt
 ### 3. Google Cloud Setup
 
 To set up Google Docs API access:
-1. Go to [Google Cloud Console](https://console.cloud.google.com/).
-2. Enable the **Google Docs API**
+1. Go to [Google Cloud Console](https://console.cloud.google.com/) and create a **New Project**
+2. Go to API's and Services > In the search bar Enable the **Google Docs API**
 3. Go to IAM & Admin
 4. Under the **Service Account** Section create a Service Account with the Editor Role
-5. Download the JSON credentials.
-6. Place the credentials file in the same directory as the script and rename it as `credentials.json`.
+5. Download the JSON credentials
+6. Place the credentials file in the same directory as the script and rename it as `credentials.json`
 
 
