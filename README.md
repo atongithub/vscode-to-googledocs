@@ -32,7 +32,8 @@ To set up Google Docs API access:
 2. Go to API's and Services > In the search bar Enable the **Google Docs API**
 3. Go to IAM & Admin
 4. Under the **Service Account** Section create a Service Account with the Editor Role
-5. Download the JSON credentials
-6. Place the credentials file in the same directory as the script and rename it as `credentials.json`
+5. Go to the newly created service account > Keys > Create Key (JSON) 
+6. Download the JSON credentials
+7. Place the credentials file in the same directory as the script and rename it as `credentials.json`
 
 
